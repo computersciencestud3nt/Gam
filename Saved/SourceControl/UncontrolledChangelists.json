@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/TestLevel.umap",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/PlayerChar_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/PlayerProj_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/ArenaMode.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/Enemy.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/PlayerCont_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AICont_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Materials/M_RedColor.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AI_BT.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AI_BB.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AIProj_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AIChar_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/Tasks/Shoot.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/Tasks/StopShooting.uasset"
+			]
+		}
+	]
+}
