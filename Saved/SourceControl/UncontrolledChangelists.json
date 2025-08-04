@@ -18,7 +18,11 @@
 				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AIProj_BP.uasset",
 				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AIChar_BP.uasset",
 				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/Tasks/Shoot.uasset",
-				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/Tasks/StopShooting.uasset"
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/Tasks/StopShooting.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/PlayerUI.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AI_W.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Game/Score_W.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Game/ArenaPlayers.uasset"
 			]
 		}
 	]
