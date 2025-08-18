@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/ArenaShooter2/Content/PickUps/BP/PickUp_M.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/ArenaShooter2/Content/TestLevel.umap",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/ArenaShooter2/Content/AI/AIChar_BP.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/ArenaShooter2/Content/Game/Score_W.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/Content/AI/AIChar_BP.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/Content/Game/ArenaPlayers.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/Content/Player/PlayerChar_BP.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/Content/AI/AIProj_BP.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/Content/Player/PlayerProj_BP.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/Content/Game/Score_W.uasset",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/Content/TestLevel.umap",
+				"C:/Users/jhonr/OneDrive/Documents/Unreal Projects/ArenaShooter2/Content/Spawn/AI_Spawn.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/TestLevel.umap",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/PlayerChar_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/PlayerProj_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/ArenaMode.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/Enemy.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/PlayerCont_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AICont_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Materials/M_RedColor.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AI_BT.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AI_BB.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AIProj_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AIChar_BP.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/Tasks/Shoot.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/Tasks/StopShooting.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Player/PlayerUI.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/AI/AI_W.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Game/Score_W.uasset",
+				"D:/epic/Unreal Engine/Projects/ArenaShooter/Content/Game/ArenaPlayers.uasset"
+			]
+		}
+	]
+}
